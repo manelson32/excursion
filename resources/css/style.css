@@ -6,7 +6,7 @@ body {
 }
 h1 {
   font-size: 50px;
-  font-weight: normal;
+  font-weight: normal; /*This style is specified on the project redline document and is present on the mock-up PNG image, but is not present on the live page examples.*/
 }
 h2 {
   font-size: 42px;
